@@ -513,6 +513,8 @@ Classement de tous les anciens par proximité :
 - **Région** : England (premier élément)
 - **Période** : Saxon / Medieval (marqueurs temporels)
 
+![analyse_complete_region_periode](./analyse_complete_region_periode.png)
+
 #### Agrégation Statistique
 
 **Par région** :
