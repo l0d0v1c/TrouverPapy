@@ -1,0 +1,24 @@
+# SNPs associés aux maladies neurologiques et traits cognitifs
+
+# Alzheimer
+rs429358   # APOE e4 - Facteur de risque majeur Alzheimer
+rs7412     # APOE e2 - Protecteur contre Alzheimer
+rs4420638  # APOE région
+
+# Parkinson
+rs34637584 # LRRK2 - Maladie de Parkinson
+rs34311866 # TMEM175
+
+# Intelligence et cognition
+rs363050   # SNAP25 - Performance cognitive
+rs17070145 # KIBRA - Mémoire
+
+# Migraine
+rs1835740  # Migraine commune
+
+# Addiction
+rs16969968 # CHRNA5 - Dépendance nicotine
+rs1800497  # DRD2 - Système de récompense dopaminergique
+
+# Sommeil
+rs1801260  # CLOCK - Chronotype (matin/soir)

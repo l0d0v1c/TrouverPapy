@@ -1,0 +1,24 @@
+# SNPs associés au métabolisme
+# Obésité et poids
+rs9939609  # FTO - Prédisposition à l'obésité
+rs1558902  # FTO - Association avec IMC
+rs1421085  # FTO
+
+# Diabète
+rs7903146  # TCF7L2 - Diabète de type 2 (fort effet)
+rs12255372 # TCF7L2
+rs1801282  # PPARG - Sensibilité à l'insuline
+
+# Métabolisme lipidique
+rs662799   # APOA5 - Triglycérides
+rs1800588  # LIPC - HDL cholestérol
+
+# Métabolisme des glucides
+rs4988235  # LCT - Persistance lactase (tolérance lactose)
+
+# Caféine
+rs762551   # CYP1A2 - Métabolisme de la caféine
+
+# Vitamine D
+rs2228570  # VDR - Récepteur vitamine D
+rs7041     # GC - Transport vitamine D

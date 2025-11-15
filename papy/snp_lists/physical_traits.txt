@@ -1,0 +1,34 @@
+# SNPs associés aux traits physiques et morphologiques
+
+# Taille
+rs6060369  # Taille adulte
+rs314277   # LIN28B - Âge de la puberté et taille
+
+# Force musculaire et performance
+rs1815739  # ACTN3 - Sprint vs endurance
+rs8192678  # PPARGC1A - Endurance
+
+# Cheveux
+rs12203592 # IRF4 - Couleur cheveux
+rs1805007  # MC1R - Cheveux roux
+rs11803731 # TCHH - Texture cheveux (bouclés/raides)
+rs3827760  # EDAR - Épaisseur cheveux
+
+# Yeux
+rs12913832 # HERC2/OCA2 - Couleur yeux (principal)
+rs1800407  # OCA2
+rs12896399 # SLC24A4
+
+# Peau
+rs1426654  # SLC24A5 - Pigmentation peau (principal)
+rs16891982 # SLC45A2 - Peau claire européenne
+rs1800414  # OCA2 - Peau claire asiatique
+rs1042602  # TYR - Pigmentation
+
+# Perception sensorielle
+rs713598   # TAS2R38 - Goût amer (PTC)
+rs1726866  # Perception des odeurs
+
+# Autres
+rs17822931 # ABCC11 - Type de cérumen, odeur corporelle
+rs4680     # COMT - Tolérance à la douleur

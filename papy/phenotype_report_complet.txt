@@ -1,0 +1,600 @@
+Extraction des génotypes en cours...
+
+Échantillons trouvés: Germany_Lech_EBA_AITI_43, Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d
+
+================================================================================
+RAPPORT D'ANALYSE PHÉNOTYPIQUE ET PATHOLOGIQUE
+================================================================================
+
+
+================================================================================
+CATÉGORIE: PIGMENTATION - YEUX
+================================================================================
+
+SNP: rs12913832 - Gène: HERC2/OCA2
+Trait: Couleur des yeux
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr15:28365618
+  Génotype: A/A
+  Interprétation: Yeux marrons/bruns (ancestral)
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr15:28365618
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs12896399 - Gène: SLC24A4
+Trait: Couleur des yeux
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr14:92773663
+  Génotype: G/G
+  Interprétation: Yeux foncés
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr14:92773663
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: PIGMENTATION - CHEVEUX
+================================================================================
+
+⚠ rs1805007 (MC1R) - NON TROUVÉ dans le VCF
+  Trait: Cheveux roux
+
+SNP: rs12203592 - Gène: IRF4
+Trait: Couleur des cheveux
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr6:396321
+  Génotype: C/C
+  Interprétation: Cheveux foncés
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr6:396321
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: PIGMENTATION - PEAU
+================================================================================
+
+SNP: rs1426654 - Gène: SLC24A5
+Trait: Pigmentation de la peau
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr15:48426484
+  Génotype: A/A
+  Interprétation: Peau foncée (ancestral)
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr15:48426484
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs16891982 - Gène: SLC45A2
+Trait: Pigmentation de la peau
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr5:33951693
+  Génotype: C/C
+  Interprétation: Peau normale/foncée
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr5:33951693
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: MÉTABOLISME - LACTOSE
+================================================================================
+
+SNP: rs4988235 - Gène: MCM6/LCT
+Trait: Persistance de la lactase (tolérance au lactose)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr2:136608646
+  Génotype: G/G
+  Interprétation: TOLERANT au lactose (mutation européenne)
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr2:136608646
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+⚠ rs182549 (MCM6/LCT) - NON TROUVÉ dans le VCF
+  Trait: Persistance de la lactase (variant secondaire)
+
+
+================================================================================
+CATÉGORIE: MÉTABOLISME - ALCOOL
+================================================================================
+
+SNP: rs671 - Gène: ALDH2
+Trait: Métabolisme de l'alcool
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr12:112241766
+  Génotype: G/G
+  Interprétation: Métabolisme normal de l'alcool
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr12:112241766
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: GROUPES SANGUINS
+================================================================================
+
+⚠ rs8176719 (ABO) - NON TROUVÉ dans le VCF
+  Trait: Groupe sanguin ABO
+
+
+================================================================================
+CATÉGORIE: MALADIES GÉNÉTIQUES - HÉMOCHROMATOSE
+================================================================================
+
+SNP: rs1800562 - Gène: HFE
+Trait: Hémochromatose (surcharge en fer)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr6:26093141
+  Génotype: G/G
+  Interprétation: Normal
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr6:26093141
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs1799945 - Gène: HFE
+Trait: Hémochromatose (mutation H63D)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr6:26091179
+  Génotype: C/C
+  Interprétation: Normal
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr6:26091179
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: MALADIES GÉNÉTIQUES - MUCOVISCIDOSE
+================================================================================
+
+⚠ rs113993960 (CFTR) - NON TROUVÉ dans le VCF
+  Trait: Mucoviscidose (mutation F508del)
+
+
+================================================================================
+CATÉGORIE: MALADIES GÉNÉTIQUES - THROMBOPHILIE
+================================================================================
+
+SNP: rs6025 - Gène: F5
+Trait: Facteur V Leiden (risque thrombose)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr1:169519049
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr1:169519049
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: MALADIES GÉNÉTIQUES - DRÉPANOCYTOSE/THALASSÉMIE
+================================================================================
+
+⚠ rs334 (HBB) - NON TROUVÉ dans le VCF
+  Trait: Anémie falciforme / Résistance au paludisme
+
+
+================================================================================
+CATÉGORIE: MALADIES NEUROLOGIQUES - ALZHEIMER
+================================================================================
+
+SNP: rs429358 - Gène: APOE
+Trait: Facteur de risque Alzheimer (APOE ε4)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr19:45411941
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr19:45411941
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs7412 - Gène: APOE
+Trait: APOE ε2 (protecteur Alzheimer)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr19:45412079
+  Génotype: C/C
+  Interprétation: Pas d'allèle ε2
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr19:45412079
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: MALADIES CARDIOVASCULAIRES
+================================================================================
+
+SNP: rs1333049 - Gène: 9p21.3
+Trait: Risque de maladie coronarienne
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr9:22125503
+  Génotype: C/C
+  Interprétation: Risque normal
+  ⚠️  ATTENTION: Variant potentiellement important
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr9:22125503
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs1801133 - Gène: MTHFR
+Trait: Mutation MTHFR C677T (métabolisme folates)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr1:11856378
+  Génotype: G/G
+  Interprétation: Normal
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr1:11856378
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: MÉTABOLISME - OBÉSITÉ ET DIABÈTE
+================================================================================
+
+SNP: rs9939609 - Gène: FTO
+Trait: Prédisposition à l'obésité
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr16:53820527
+  Génotype: T/T
+  Interprétation: Risque normal
+  ⚠️  ATTENTION: Variant potentiellement important
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr16:53820527
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs7903146 - Gène: TCF7L2
+Trait: Diabète de type 2
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr10:114758349
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr10:114758349
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs1801282 - Gène: PPARG
+Trait: Sensibilité à l'insuline
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr3:12393125
+  Génotype: C/C
+  Interprétation: Normal
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr3:12393125
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: SYSTÈME IMMUNITAIRE - MALADIES AUTO-IMMUNES
+================================================================================
+
+SNP: rs2476601 - Gène: PTPN22
+Trait: Maladies auto-immunes (PR, diabète type 1, lupus)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr1:114377568
+  Génotype: G/G
+  Interprétation: Risque normal
+  ⚠️  ATTENTION: Variant potentiellement important
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr1:114377568
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs6897932 - Gène: IL7R
+Trait: Sclérose en plaques
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr5:35874575
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr5:35874575
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: SYSTÈME IMMUNITAIRE - MALADIE COELIAQUE
+================================================================================
+
+SNP: rs2187668 - Gène: HLA-DQ
+Trait: Maladie coeliaque (intolérance au gluten)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr6:32605884
+  Génotype: C/C
+  Interprétation: Risque augmenté de maladie coeliaque
+  ⚠️  ATTENTION: Variant potentiellement important
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr6:32605884
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: DÉTOXIFICATION ET MÉTABOLISME
+================================================================================
+
+SNP: rs1695 - Gène: GSTP1
+Trait: Détoxification (glutathion S-transférase)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr11:67352689
+  Génotype: A/A
+  Interprétation: Activité enzymatique normale
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr11:67352689
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs762551 - Gène: CYP1A2
+Trait: Métabolisme de la caféine
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr15:75041917
+  Génotype: C/C
+  Interprétation: Métaboliseur LENT de caféine
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr15:75041917
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: TRAITS SENSORIELS
+================================================================================
+
+SNP: rs713598 - Gène: TAS2R38
+Trait: Perception du goût amer (PTC/PROP)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr7:141673345
+  Génotype: C/C
+  Interprétation: Super-goûteur (très sensible à l'amertume)
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr7:141673345
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs1726866 - Gène: OR7D4
+Trait: Perception de l'odeur (androsténone)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr7:141672705
+  Génotype: A/A
+  Interprétation: Perception normale
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr7:141672705
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: MORPHOLOGIE ET TRAITS PHYSIQUES
+================================================================================
+
+SNP: rs11803731 - Gène: TCHH
+Trait: Texture des cheveux (raides/bouclés)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr1:152083325
+  Génotype: A/A
+  Interprétation: Cheveux raides
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr1:152083325
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs3827760 - Gène: EDAR
+Trait: Épaisseur des cheveux
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr2:109513601
+  Génotype: A/A
+  Interprétation: Cheveux fins
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr2:109513601
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs6060369 - Gène: GDF5
+Trait: Taille adulte
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr20:33907161
+  Génotype: C/C
+  Interprétation: Interprétation non disponible
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr20:33907161
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: SANTÉ OSSEUSE ET VITAMINE D
+================================================================================
+
+⚠ rs2228570 (VDR) - NON TROUVÉ dans le VCF
+  Trait: Récepteur de la vitamine D
+
+⚠ rs1800247 (COL1A1) - NON TROUVÉ dans le VCF
+  Trait: Risque d'ostéoporose
+
+
+================================================================================
+CATÉGORIE: PERFORMANCE ET ENDURANCE
+================================================================================
+
+SNP: rs1815739 - Gène: ACTN3
+Trait: Performance musculaire (sprint vs endurance)
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr11:66328095
+  Génotype: T/T
+  Interprétation: Perte protéine ACTN3 (ENDURANCE)
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr11:66328095
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs8192678 - Gène: PPARGC1A
+Trait: Endurance aérobie
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr4:23815662
+  Génotype: C/C
+  Interprétation: Réponse normale à l'entraînement
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr4:23815662
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+
+================================================================================
+CATÉGORIE: TRAITS DIVERS
+================================================================================
+
+SNP: rs17822931 - Gène: ABCC11
+Trait: Type de cérumen et odeur corporelle
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr16:48258198
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr16:48258198
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs4680 - Gène: COMT
+Trait: Tolérance à la douleur et stress
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr22:19951271
+  Génotype: A/A
+  Interprétation: Met/Met - Métabolisme lent (inquiet, sensible douleur)
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr22:19951271
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+SNP: rs1800497 - Gène: ANKK1/DRD2
+Trait: Système de récompense dopaminergique
+--------------------------------------------------------------------------------
+
+Germany_Lech_EBA_AITI_43:
+  Position: chr11:113270828
+  Génotype: G/G
+  Interprétation: Récepteurs dopamine normaux
+
+Germany_Lech_EBA_father.or.son.AITI_43_lc_AITI_55_d:
+  Position: chr11:113270828
+  Génotype: Pas de données
+  Interprétation: Données manquantes
+
+⚠ rs1801260 (CLOCK) - NON TROUVÉ dans le VCF
+  Trait: Chronotype (personne du matin/soir)
+
+
+================================================================================
+RÉSUMÉ DES DÉCOUVERTES IMPORTANTES
+================================================================================
+
+Aucun variant pathogène majeur détecté.
+
+
+================================================================================
+Rapport sauvegardé dans: phenotype_report.txt
+================================================================================

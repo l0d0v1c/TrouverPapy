@@ -1,0 +1,22 @@
+# SNPs associés au système immunitaire et maladies auto-immunes
+
+# Maladies auto-immunes générales
+rs2476601  # PTPN22 - Polyarthrite rhumatoïde, diabète type 1, lupus
+
+# Sclérose en plaques
+rs6897932  # IL7R - Sclérose en plaques
+
+# Maladie coeliaque
+rs2187668  # HLA-DQ - Maladie coeliaque
+rs4713586  # HLA région
+
+# Crohn et maladies inflammatoires intestinales
+rs11209026 # IL23R - Maladie de Crohn
+rs10761659 # IL23R
+
+# Psoriasis
+rs12191877 # HLA-C - Psoriasis
+
+# Réponse aux infections
+rs5743293  # TLR1 - Réponse aux pathogènes
+rs334      # HBB - Anémie falciforme / résistance malaria

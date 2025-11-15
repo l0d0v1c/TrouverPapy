@@ -1,0 +1,20 @@
+# SNPs associés aux maladies cardiovasculaires
+# Source: GWAS Catalog et études publiées
+
+# Maladie coronarienne
+rs1333049  # 9p21.3 - Risque de maladie coronarienne
+rs10757274 # 9p21 - Infarctus du myocarde
+rs1333040  # CDKN2A/CDKN2B
+
+# Hypertension
+rs17367504 # MTHFR - Pression artérielle
+rs1801133  # MTHFR C677T - Homocystéine élevée
+
+# Cholestérol
+rs4420638  # APOE - Cholestérol et Alzheimer
+rs7412     # APOE e2
+rs429358   # APOE e4
+
+# Coagulation
+rs6025     # F5 - Facteur V Leiden
+rs1799963  # F2 - Prothrombine G20210A
