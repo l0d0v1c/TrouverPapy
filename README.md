@@ -206,6 +206,15 @@ R1b
 - **Âge du Bronze Ancien** : Devient dominant en Europe de l'Ouest
 - **Aujourd'hui** : ~60% des hommes en Irlande, ~50% en France/Espagne
 
+# Traits et pathologie
+
+  Pigmentation: Yeux marrons, cheveux foncés/raides/fins, peau foncée (profil ancestral)
+  Métabolisme: Tolérant au lactose ✓, métaboliseur lent de caféine
+  Physique: Type endurance (perte ACTN3)
+  Sensoriel: Super-goûteur (très sensible à l'amertume)
+  Psychologie: Génotype "worrier" (plus sensible au stress/douleur)
+  Santé: Aucun variant pathogène majeur détecté ✓
+
 ---
 
 ## 🎯 Points Clés de la Synthèse
